@@ -1,0 +1,6 @@
+flask
+flask-login
+flask-mysqldb
+flask-sqlalchemy
+flask_httpauth
+flask_ckeditor

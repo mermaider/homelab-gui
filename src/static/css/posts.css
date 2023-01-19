@@ -1,0 +1,28 @@
+body {
+  background-color: lightgray;
+}
+.post {
+  /* background-color: lightskyblue; */
+  background-color: rgb(232, 232, 232);
+  margin-top: 3%;
+  border: 3px solid black;
+  position: relative;
+  padding: 30px;
+  height: 350px;
+}
+.sub-btn {
+  position: absolute;
+  margin-right: 1%;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  bottom: 0;
+  right: 0;
+}
+.content {
+  font-size: large;
+  color: slategray;
+}
+.title {
+  font-size: xx-large;
+  font-weight: bolder;
+}
